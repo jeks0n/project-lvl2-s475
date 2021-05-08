@@ -49,6 +49,6 @@
   "dependencies": {
     "commander": "^2.19.0",
     "eslint-plugin-jest": "^22.6.4",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.21"
   }
 }
